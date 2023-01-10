@@ -42,6 +42,12 @@
 ![exp 7](https://user-images.githubusercontent.com/122251759/211596614-902d6865-5284-4fb7-850f-3add66104629.png)
 ![exp 7 1](https://user-images.githubusercontent.com/122251759/211596651-4f77a8f1-65d4-41af-9eab-141c4561fc53.png)
 ![image](https://user-images.githubusercontent.com/122251759/211596838-26336c54-26b6-4b38-9acf-f4bacb1fc16d.png)
+## Experiment 8
+[Experiment 8 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%208)
+![image](https://user-images.githubusercontent.com/122251759/211597737-858e7297-2a3c-47f8-beb5-b21e4cfc6dbe.png)
+![image](https://user-images.githubusercontent.com/122251759/211597903-dd655517-1256-48b2-b2bb-a0282ec2d8b9.png)
+![image](https://user-images.githubusercontent.com/122251759/211598101-e33307f3-8475-40da-968b-6a1c353cb34c.png)
+
 
 
 
