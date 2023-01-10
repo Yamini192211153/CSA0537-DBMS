@@ -13,5 +13,8 @@
 ![exp 2 2](https://user-images.githubusercontent.com/122251759/211502843-fd5a55e9-8c1c-42a5-b102-c7cde3fb5be5.png)
 ![exp 2 3](https://user-images.githubusercontent.com/122251759/211502907-f2d49502-0610-48ff-80c8-f63cc138a10c.png)
 ![exp 2 4](https://user-images.githubusercontent.com/122251759/211503210-f7f0346a-b1cf-4b2e-8f6f-abd89728cf42.png)
+![exp 2 5](https://user-images.githubusercontent.com/122251759/211505109-8e9608b8-53e3-4cd4-a59e-ce144a10d618.png)
+
+
 
 
