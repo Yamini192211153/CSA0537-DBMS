@@ -32,6 +32,14 @@
 ![exp 5 4](https://user-images.githubusercontent.com/122251759/211593696-167c6ade-18c5-441a-85bd-b44d67d687ac.png)
 ![exp 5 5](https://user-images.githubusercontent.com/122251759/211593747-471a225d-9530-4b0d-8ba1-9a189c48427e.png)
 ![exp 5 6](https://user-images.githubusercontent.com/122251759/211593820-9c90e334-8b8b-49b4-816e-b290eaa55a6c.png)
+## Experiment 6
+[Experiment 6 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%206)
+![exp 6](https://user-images.githubusercontent.com/122251759/211595211-9bbcf7f9-14db-45e9-a390-6c3366dd3048.png)
+![exp 6 1](https://user-images.githubusercontent.com/122251759/211595285-30f4ce95-5db7-4f57-bf04-44c021c7d618.png)
+![exp 6 2](https://user-images.githubusercontent.com/122251759/211595353-e2c1d1d1-0ef7-41ed-b583-4ae0b8756e69.png)
+
+
+
 
 
 
