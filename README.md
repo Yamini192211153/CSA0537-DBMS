@@ -9,4 +9,9 @@
 ![exp 1 4](https://user-images.githubusercontent.com/122251759/211466437-0e8e87bf-acc5-44e6-a2cd-4a2374465e69.png)
 ## Experiment 2
 [expr 2 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%202)
+![exp2 1](https://user-images.githubusercontent.com/122251759/211502733-e6ae238a-a36a-4424-8822-62290e29d46a.png)
+![exp 2 2](https://user-images.githubusercontent.com/122251759/211502843-fd5a55e9-8c1c-42a5-b102-c7cde3fb5be5.png)
+![exp 2 3](https://user-images.githubusercontent.com/122251759/211502907-f2d49502-0610-48ff-80c8-f63cc138a10c.png)
+![exp 2 4](https://user-images.githubusercontent.com/122251759/211503210-f7f0346a-b1cf-4b2e-8f6f-abd89728cf42.png)
+
 
