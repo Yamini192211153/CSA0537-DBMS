@@ -59,7 +59,7 @@
 ## Experiment 11
 [Experiment 11 source code](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%2011)
 ![image](https://user-images.githubusercontent.com/122251759/211601308-34ee93b2-5872-4c2b-af83-03a6b5e526c0.png)
-#3 Experiment 12
+## Experiment 12
 [Experiment 12 source code](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%2012)
 ![image](https://user-images.githubusercontent.com/122251759/211602072-7d79b648-6899-447c-8b4e-3178a363e2e0.png)
 
