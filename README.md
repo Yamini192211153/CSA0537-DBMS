@@ -23,6 +23,16 @@
 ![exp 3 4 4](https://user-images.githubusercontent.com/122251759/211589295-ab6b79f3-b7e3-4c15-831c-48381ee09a04.png)
 ![exp 3 4 5](https://user-images.githubusercontent.com/122251759/211589068-68fcf6da-3245-41dd-b2a4-a4299aafe80f.png)
 ![exp 3 4 6](https://user-images.githubusercontent.com/122251759/211589562-0f02c453-b982-4e03-b72d-0d51d74039ee.png)
+## Experiment 5
+[Experiment 5 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%205)
+![exp 5](https://user-images.githubusercontent.com/122251759/211593418-3b0cd521-7123-4ec6-89ca-8c5654fba4a8.png)
+![exp 5 1](https://user-images.githubusercontent.com/122251759/211593502-c99a33d1-5f8e-41ec-b4ef-2b177bd22f6d.png)
+![exp 5 2](https://user-images.githubusercontent.com/122251759/211593564-80a8c8e8-9eae-45a2-9c8d-e1518ff71898.png)
+![exp 5 3](https://user-images.githubusercontent.com/122251759/211593628-d41f762a-3f38-4c59-8305-8b461d56484e.png)
+![exp 5 4](https://user-images.githubusercontent.com/122251759/211593696-167c6ade-18c5-441a-85bd-b44d67d687ac.png)
+![exp 5 5](https://user-images.githubusercontent.com/122251759/211593747-471a225d-9530-4b0d-8ba1-9a189c48427e.png)
+![exp 5 6](https://user-images.githubusercontent.com/122251759/211593820-9c90e334-8b8b-49b4-816e-b290eaa55a6c.png)
+
 
 
 
