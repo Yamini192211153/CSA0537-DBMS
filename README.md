@@ -89,6 +89,10 @@
 ##Experiment 21
 [Experiment 21 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%2021)
 ![image](https://user-images.githubusercontent.com/122251759/211742643-3aa424ce-3a9d-4483-aa26-fccd6c7dfbf5.png)
+##Experiment 22
+[Experiment 22 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%2022)
+![image](https://user-images.githubusercontent.com/122251759/211743910-9151cfc0-fb4c-425d-b902-f277f95abc7a.png)
+
 
 
 
