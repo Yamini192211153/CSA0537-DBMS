@@ -77,6 +77,10 @@
 ##Experiment 17
 [Experiment 17 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/expertiment%2017)
 ![image](https://user-images.githubusercontent.com/122251759/211740432-260df767-0bfd-47d9-bb61-38cc7a4bf0f6.png)
+## Experiment 18
+[Experiment 18 source file](https://github.com/Yamini192211153/CSA0537-DBMS/blob/main/experiment%2018)
+![image](https://user-images.githubusercontent.com/122251759/211740897-551ee539-26b5-4c81-9b0d-d591dcab18c3.png)
+
 
 
 
